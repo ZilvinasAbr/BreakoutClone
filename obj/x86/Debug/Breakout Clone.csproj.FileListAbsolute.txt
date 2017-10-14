@@ -1,0 +1,32 @@
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Content\ball.xnb
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Content\block.xnb
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Content\pad.xnb
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Breakout Clone.exe
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Breakout Clone.pdb
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Development\MonoGame\Breakout Clone\obj\x86\Debug\Breakout Clone.exe
+D:\Development\MonoGame\Breakout Clone\obj\x86\Debug\Breakout Clone.pdb
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Breakout Clone.exe.manifest
+D:\Development\MonoGame\Breakout Clone\bin\Windows\Debug\Breakout Clone.application
+D:\Development\MonoGame\Breakout Clone\obj\x86\Debug\Breakout Clone.exe.manifest
+D:\Development\MonoGame\Breakout Clone\obj\x86\Debug\Breakout Clone.application
+D:\Development\MonoGame\Breakout Clone\obj\x86\Debug\Breakout Clone.csprojResolveAssemblyReference.cache

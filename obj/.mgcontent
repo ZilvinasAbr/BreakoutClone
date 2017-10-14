@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Development/MonoGame/Breakout Clone/textures/ball.png</File>
+    <File>D:/Development/MonoGame/Breakout Clone/textures/block.png</File>
+    <File>D:/Development/MonoGame/Breakout Clone/textures/pad.png</File>
+  </SourceFiles>
+</SourceFileCollection>
